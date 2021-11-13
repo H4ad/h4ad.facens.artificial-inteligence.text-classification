@@ -21,3 +21,11 @@ Abaixo, você pode visualizar as informações de cada notebook criado:
 ## Grupo
 
 - Vinícius Lourenço Claro Cardoso (180618)
+
+## Referências
+
+- https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
+- https://www.devmedia.com.br/html-entities-html-symbols-html-characters/1011
+- https://stackoverflow.com/questions/20186344/ipynb-import-another-ipynb-file
+- https://gist.github.com/H4ad/e4c5f79849eebdec32b655d7bba6be0a
+- https://www.kaggle.com/team-ai/spam-text-message-classification
