@@ -29,3 +29,8 @@ Abaixo, você pode visualizar as informações de cada notebook criado:
 - https://stackoverflow.com/questions/20186344/ipynb-import-another-ipynb-file
 - https://gist.github.com/H4ad/e4c5f79849eebdec32b655d7bba6be0a
 - https://www.kaggle.com/team-ai/spam-text-message-classification
+- https://www.youtube.com/watch?v=oLane_Vh3CU
+- https://stackoverflow.com/questions/50382248/how-can-i-import-one-jupyter-notebook-into-another
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html
+- http://computacaointeligente.com.br/outros/intro-sklearn-part-3/
+- http://computacaointeligente.com.br/conceitos/avaliando-performance-cross-validation/
