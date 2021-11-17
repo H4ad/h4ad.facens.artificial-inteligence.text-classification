@@ -34,3 +34,11 @@ Abaixo, você pode visualizar as informações de cada notebook criado:
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html
 - http://computacaointeligente.com.br/outros/intro-sklearn-part-3/
 - http://computacaointeligente.com.br/conceitos/avaliando-performance-cross-validation/
+- https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#
+- https://towardsdatascience.com/deep-neural-multilayer-perceptron-mlp-with-scikit-learn-2698e77155e
+- https://numpy.org/doc/stable/reference/generated/numpy.concatenate.html
+- https://docs.w3cub.com/scikit_learn/modules/generated/sklearn.neural_network.mlpclassifier#sklearn.neural_network.MLPClassifier.fit
+- https://en.wikipedia.org/wiki/Quasi-Newton_method
+- https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html
+- https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/
